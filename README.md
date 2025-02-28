@@ -1,6 +1,5 @@
 # Stylish Unit Converter
 
-![Unit Converter](https://your-image-url.com/banner.png)
 
 A **stylish and interactive unit converter** built using **Streamlit** and the **Pint** library for accurate unit conversions.
 
