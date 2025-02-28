@@ -63,8 +63,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# **Heading**
-st.markdown('<p class="title">🔄 Stylish Unit Converter</p>', unsafe_allow_html=True)
 
 # **Unit Categories**
 unit_categories = {
